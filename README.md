@@ -63,7 +63,7 @@ To develop the Autoware Build GUI, you'll need to have both Rust and Node.js ins
    npm install -g pnpm
    ```
 
-Once Rust and Node.js are set up, you can proceed with the [Installation](#installation) steps mentioned above.
+Once Rust and Node.js are set up, you can proceed with the [Installation](#installation) steps mentioned below.
 
 ## Installation
 
